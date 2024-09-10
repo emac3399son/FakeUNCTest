@@ -19,7 +19,7 @@ To use it, open the FakeUNC.lua and copy the text, then head to your executor an
 Once you execute it, it will just print out the functions and the unc test.
 
 ##### This only uses print Command and time.sleep command for .py version & .exe
--# This only uses print Command and math.random (for wait time) for the .lua version
+##### This only uses print Command and math.random (for wait time) for the .lua version
 
 # Have fun Pranking users!
 ### Make sure to star this post!
