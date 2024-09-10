@@ -18,7 +18,7 @@ There is also a .py NOT Obfuscated, for people who want to mess around with it.
 To use it, open the FakeUNC.lua and copy the text, then head to your executor and paste it in. 
 Once you execute it, it will just print out the functions and the unc test.
 
--# This only uses print Command and time.sleep command for .py version & .exe
+##### This only uses print Command and time.sleep command for .py version & .exe
 -# This only uses print Command and math.random (for wait time) for the .lua version
 
 # Have fun Pranking users!
